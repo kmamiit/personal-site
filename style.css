@@ -1,0 +1,36 @@
+h2{
+  font-family: 'Roboto', 'K2D', 'Lato', sans-serif;
+}
+
+.padding{
+  padding-bottom: 2rem;
+}
+
+.social-icon a{
+  padding: 2rem;  
+  font-size: 1.3rem;
+  color: #226666
+}
+
+
+
+
+
+
+
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+
+  }
+@media (max-width: 768px) {
+  
+}
+@media (max-width: 576px) {
+  
+}
+
+/*--- Bootstrap Padding Fix --*/
+[class*="col-"] {
+    padding: 1rem;
+}
